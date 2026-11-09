@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="188" viewBox="0 0 350 188" role="img" aria-label="top-languages.sh">
+  <rect x="0.5" y="0.5" width="349" height="187" rx="12" fill="#0b0f14" stroke="#1f2a37"/>
+  <circle cx="22" cy="22" r="5" fill="#2b3a4a"/><circle cx="38" cy="22" r="5" fill="#2b3a4a"/><circle cx="54" cy="22" r="5" fill="#2b3a4a"/>
+  <text x="72" y="26" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#8b98a5">top-languages.sh</text>
+  <clipPath id="r"><rect x="24" y="46" width="302" height="8" rx="4"/></clipPath>
+  <g clip-path="url(#r)"><rect x="24" y="46" width="302" height="8" fill="#1f2a37"/><rect x="24.0" y="46" width="221.8" height="8" fill="#a3e635"/><rect x="245.8" y="46" width="48.9" height="8" fill="#22d3ee"/><rect x="294.7" y="46" width="16.1" height="8" fill="#f59e0b"/><rect x="310.7" y="46" width="8.1" height="8" fill="#a78bfa"/><rect x="318.8" y="46" width="5.6" height="8" fill="#f472b6"/><rect x="324.4" y="46" width="2.0" height="8" fill="#60a5fa"/></g>
+  <circle cx="29" cy="82" r="5" fill="#a3e635"/>
+  <text x="40" y="86" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#e6edf3">JavaScript <tspan fill="#8b98a5">73.4%</tspan></text>
+  <circle cx="185" cy="82" r="5" fill="#22d3ee"/>
+  <text x="196" y="86" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#e6edf3">CSS <tspan fill="#8b98a5">16.2%</tspan></text>
+  <circle cx="29" cy="108" r="5" fill="#f59e0b"/>
+  <text x="40" y="112" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#e6edf3">HTML <tspan fill="#8b98a5">5.3%</tspan></text>
+  <circle cx="185" cy="108" r="5" fill="#a78bfa"/>
+  <text x="196" y="112" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#e6edf3">Shell <tspan fill="#8b98a5">2.7%</tspan></text>
+  <circle cx="29" cy="134" r="5" fill="#f472b6"/>
+  <text x="40" y="138" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#e6edf3">PHP <tspan fill="#8b98a5">1.9%</tspan></text>
+  <circle cx="185" cy="134" r="5" fill="#60a5fa"/>
+  <text x="196" y="138" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#e6edf3">TypeScript <tspan fill="#8b98a5">0.5%</tspan></text>
+  <text x="334" y="176" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#56616d" text-anchor="end">updated 2026-11-09</text>
+</svg>
